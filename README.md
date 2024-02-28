@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hey there!
+I'm Florian aka Sheshire,
+a passionate software enthusiast with a love for game development using Godot Engine and a strong affection for the Linux ecosystem.
+Fluent in both German and English, I'm always eager to collaborate and create something awesome. Let's code and create together! hugs
 <!--
 **sheshire63/sheshire63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
